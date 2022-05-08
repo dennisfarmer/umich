@@ -3,6 +3,3 @@ build:
 
 clean:
 	rm *.log *.aux
-
-
-
