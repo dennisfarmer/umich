@@ -1,0 +1,88 @@
+
+
+tips for writing emails:
+
+Why did this project catch your eye, spark your interest.
+
+
+# project 76 - Deciphering transcriptomic networks in bone and joint development
+uses R and UofM-developed Shiny App
+dataset mining
+
+kdhank@umich.edu
+
+UROP Student - Interested in RNA Sequencing Research Project
+
+Dear Dr. Hankenson,
+
+I am currently a student in UROP's Summer Community College Fellowship, and an incoming Fall 2022 transfer student planning to major in Data Science. I am interested in working on your research project entitled "Deciphering transcriptomic networks in bone and joint development"; I am fascinated by the intersection of computation and biology, and I would like to learn about how biological data is used to analyze clusters of cells within the human body.
+
+I have experience tutoring and programming in R, and I have taken introductory coursework in biology (covering cell biology, genetics, ecology, and evolution). Through pursuing research involving gene expression dynamics in bone and joint tissues, I hope to learn about the field of Biostatistics and decide if I would like to study Biostatistics more in-depth during my time at the University of Michigan.
+
+If my application matches what you are looking for, I am available to set up an interview anytime in May besides May 21st, May 22nd, and May 25th. My resume is attached for your reference.
+
+Thank you for your consideration,
+-Dennis Farmer
+
+# project 28 - Data Curation and Model Evaluation for Machine Learning Models
+familiarity with machine learning and Python scripting is ideal but not required
+
+
+UROP Student - Interested in Machine Learning Research Project
+
+Dear Dr. ,
+
+I am currently a student in UROP's Summer Community College Fellowship, and an incoming Fall 2022 transfer student planning to major in Data Science. I am interested in working on your research project entitled "Data Curation and Model Evaluation for Machine Learning Models";
+//I am fascinated by the intersection of computation and biology, and I would like to learn about how biological data is used to analyze clusters of cells within the human body.
+
+//I have experience tutoring and programming in R, and I have taken introductory coursework in biology (covering cell biology, genetics, ecology, and evolution). Through pursuing research involving gene expression dynamics in bone and joint tissues, I hope to learn about the field of Biostatistics and decide if I would like to study Biostatistics more in-depth during my time at the University of Michigan.
+
+If my application matches what you are looking for, I am available to set up an interview anytime in May besides May 21st, May 22nd, and May 25th. My resume is attached for your reference.
+
+Thank you for your consideration,
+-Dennis Farmer
+
+# project 85 - ORION: Observatory for Cyber-Risk Insights and Outages of Networks
+30-40 hr per week
+
+The students will have the opportunity to query the BigQuery database and analyze real-world Internet data in near-real-time. We will also query and consult other datasets such as malware-related datasets from ExploitDB, VirusTotal, etc. We will then construct AI/ML models to help us classify and categorize the observed Darknet scanners into multiple groups, using supervised or unsupervised AI/ML approaches. For example, one can construct profiles about each scanner (using features such as their scanning volume, scanning strategy and other “fingerprints” one can construct) and then use these profiles to cluster the data into groups based on a well-defined similarity metric. Special focus will be given to specific threats, such as Internet threats targeting IoT devices and SCADA controllers (e.g., PLCs). For this, we will look at Darknet data that seem to originate from IoT devices or data that scan for vulnerable SCADA devices to try to understand the attack origin, the magnitude of the problem and, possibly, attack tactics. Project deliverables will include a written report, open-source software code, AI/ML models, and visualizations of the analyzed datasets.
+
+1. The students should be available in at least 4-hour blocks (preferably 8-hour blocks) 2. Software programming in Python and/or R is a minimum requirement. Preferably, the students should be familiar with C/C++ and/or Go. 3. Networking concepts such as TCP/IP and how Internet routing works are welcome skills, but not required. They will be learned in the course of this project! 4. Good communication and documentation skills
+
+https://github.com/Merit-Research/darknet-events/wiki/ORION-Network-Telescope
+https://it.umich.edu/community/michigan-it-symposium/2021/presentations/orion-observatory-cyber-risk-insights-and-outages
+
+mgkallit@umich.edu
+
+UROP Student - Interested in ORION Research Project
+
+Dear Dr. Kallitsis,
+
+I am currently a student in UROP's Summer Community College Fellowship, and an incoming Fall 2022 transfer student planning to major in Data Science. I find Merit Network's research involving the ORION network telescope to be very interesting, and I would like to contribute to research being done in this area
+
+I have experience tutoring and programming in Python, R, and C++, with no experience (yet!) with computer networking.
+
+Through pursuing research involving the ORION network telescope, I hope to develop my understanding of network security and decide if I would like to study cybersecurity more in-depth during my time at the University of Michigan.
+
+If my application matches what you are looking for, I am available to set up an interview anytime in May besides May 21st, May 22nd, and May 25th.
+
+Thank you for your consideration,
+-Dennis Farmer
+
+
+
+# project 57 - Computational molecular systematics and population genomics
+independent research based
+
+# project 117 - predict the gene expression after knock out of single gene
+broken english: pretty cringe ngl
+https://courses.lsa.umich.edu/urop-summer-symposium-2021/symposium-presentati/wicked-solutions-domain/
+Angela Ponce Solano
+https://chicagoarchitecturebiennial.org/learn/student_competitions/project/planet_b
+https://ne-np.facebook.com/angela.ponce.50746
+https://sw-ke.facebook.com/HolyTrinityHighSchool/posts/we-want-to-be-like-angela-ponce-solano-when-we-grow-up-htseniorshoutout-classof2/10158642394366522/
+
+
+
+https://www.facebook.com/angela.ponce.50746
+https://www.wccnet.edu/news/articles/2021-10-13-milesbutler.php

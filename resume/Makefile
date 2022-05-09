@@ -1,5 +1,7 @@
+SRC=resume
+
 build:
-	pdflatex --jobname=Farmer.Dennis.Resume resume.tex
+	pdflatex --jobname=UROP_Resume_Dennis_Farmer $(SRC).tex
 
 clean:
-	rm *.log *.aux
+	rm *.log *.aux *.pdf
