@@ -1,2 +1,2 @@
 # umich
-Onramp to UMich events, activities, and hangout ideas
+UMich events, activities, and hangout ideas

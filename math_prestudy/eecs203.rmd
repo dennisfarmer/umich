@@ -1,0 +1,122 @@
+
+
+Monday around 9-9:30
+	some interesting people show up to panera on washtenaw (umich students?)
+
+
+
+pg 13 provides overview of CS vs Math heavy chapters
+1.1-1.8
+2.1-2.5
+5.1, 5.2
+6.1-6.5
+7.1-7.4
+9.1-9.6
+10.1-10.6
+3.1-3.3
+8.1-8.3
+
+one of the primary goals for eecs203 is to teach mathematical reasoning and problem solbing, rather than learning a discrete set of skills. Chapters 1 and 5 contain explicit material on proofs, and the text contains exercises and examples of proofs throughout.
+
+"You will learn the most by actively working exercises"
+
+---
+
+# 1.1.2: Propositions
+
+## Definition: Proposition
+
+A proposition is a declarative sentence (that is, a sentence that declares a fact) that is either true or false, but not both.
+
+## Definition: Negation
+
+Let $p$ be a proposition. The *negation* of $p$, denoted by $\neg p$, is the statement
+
+	"It is not the case that $p$."
+
+The proposition $\neg p$ is read "not $p$." The truth value of the negation of $p$, $\neg p$, is the opposite of the truth value of $p$.
+
+## Definition: Conjunction
+
+Let $p$ and $q$ be propositions. The *conjunction* of $p$ and $q$, denoted by $p \wedge q$, is the proposition "$p$ and $q$" The conjunction $p \wedge q$ is true when both $p$ and $q$ are true and is false otherwise.
+
+Equivalent to intersection ($\cap$)
+
+## Definition: Disjunction
+
+Let $p$ and $q$ be propositions. The *disjunction* of $p$ and $q$, denoted by $p \vee q$, is the proposition "$p$ or $q$" The conjunction $p \vee q$ is false when both $p$ and $q$ are false and is true otherwise.
+
+Equivalent to union ($\cup$)
+
+## Definition: Exclusive Or
+
+Let $p$ and $q$ be propositions. The *exclusive or* of $p$ and $q$, denoted by $p \oplus q$ (or $p$ XOR $q$), is the proposition that is true when exactly one of $p$ and $q$ is true and is false otherwise.
+
+# 1.1.3: Conditional Statements
+
+## Definition: Conditional Statement
+
+Let $p$ and $q$ be propositions. The *conditional statement* $p \rightarrow q$  is the proposition "if $p$, then $q$". The conditional statement $p \rightarrow q$ is false when $p$ is true and $q$ is false, and true otherwise. In the conditional statement $p \righarrow q$, $p$ is called the *hypothesis* (or *antecedent* or *premise*) and $q$ is called the *conclusion* (or *consequence*).
+
+A conditional statement is also called an **implication**.
+
+"$p$ only if $q$" expresses the same thing as "if $p$, then $q$".
+Be sure not to use "$q$ only if $p$" to express $p \rightarrow q$ because this is incorrect.
+
+## Converse, Contrapositive, and Inverse
+
+proposition / conditional statement $p \rightarrow q$
+
+Converse of $p \rightarrow q$: $q \rightarrow p$
+Contrapositive of $p \rightarrow q$: $\neg q \rightarrow \neg p$
+Inverse of $p \rightarrow q$: $\neg p \rightarrow \neg q$
+
+Only the contrapositive always has the same truth value as $p \rightarrow q$
+
+When two compount propositions always have the same truth values, regardless of the truth values of its propositional variables, we call them **equivalent**.
+
+Hence, the converse and inverse of a conditional statement are equivalent.
+
+Example 12: Find the contrapositive, the converse, and the inverse of the conditional statement
+	"The home team wins whenever it is raining"
+
+p = it is raining
+q = the home team wins
+p -> q: if it is raining, then the home team wins
+converse       (q -> p):   if the home team wins, then it is raining
+contrapositive (~q -> ~p): if the home team does not win, then it is not be raining
+inverse        (~p -> ~q): if it is not raining, then the home team does not win
+
+## Definition: Biconditional Statement
+
+Let $p$ and $q$ be propositions. The *biconditional statement* $p \leftrightarrow q$ is the proposition "$p$ if and only if $q$" The biconditional statement $p \leftrightarrow q$ is true when $p$ and $q$ have the same truth values, and is false otherwise. Biconditional statements are also called *bi-implications*
+
+The biconditional statement $p \leftrightarrow q$ is abbreviated "iff" for "if and only if."
+
+$p \leftrightarrow q$ has exactly the same truth value as $(p \righarrow q) \wedge (q \righarrow p)$.
+
+# 1.1.4: Truth Tables of Compound Propositions
+
+```{r echo=FALSE, results='simple'}
+library(knitr)
+
+p <- c(T, T, F, F)
+q <- c(T, F, T, F)
+`~q` <- !q
+`disjunction of p and ~q` <- p & !q
+`conjunction of p and q` <- p | q
+`(disjunction of p and ~q) implies (conjunction of p and q)` <- (p & !q) == (p|q)
+```
+
+The Truth Table of (p \vee q) -> (p \wedge q)
+
+| p     | q     | $neg q$ | $p \vee \neg q$ | $p \wedge q$ | $(p \vee \neg q) \rightarrow (p \wedge q) |
+| :---: | :---: | :-----: | :-------------: | :----------: | :---------------------------------------: |
+| T     | T     | F       | T               | T            | T                                         |
+| T     | F     | T       | T               | F            | F                                         |
+| F     | T     | F       | F               | F            | T                                         |
+| F     | F     | T       | T               | F            | F                                         |
+
+# 1.1.5 Precedence of Logical Operators
+
+pg 34
