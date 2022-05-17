@@ -1,0 +1,82 @@
+
+1590 organizations at UMich!
+
+
+
+# Michigan Data Science Team (MDST)
+
+www.mdst.club
+
+- provides free access to DataCamp courses
+- time commitment: 4 hours per week
+	1 hour project meetings + 3 hour work sessions
+- primarily use Python
+- early in semester, MDST runs a series of 2 tutorials to give prospective members an introduction to data science. Attendence is not mandatory, however each tutorial will have an associated checkpoint which you must submit and get approved in order to join.
+
+
+# The Squirrel Club
+
+https://maizepages.umich.edu/organization/squirrelclub
+
+- Meets every Sunday
+- Anyone is welcome to come to a meeting regardless of whether they are signed up for the club or not.
+- proceeds from awesome t-shirt sales go to purchasing peanuts that are passed out at meetings (mainly to be fed to the squirrels)
+
+
+1-270 of 1590
+
+bioinformatics club
+student organization for data analytics
+
+# Tabletop Gaming Club
+
+https://maizepages.umich.edu/organization/tabletopgamingclub
+
+- meets twice a week:
+  Tuesdays at 7pm in the Dude Design Lab1
+  Fridays at 7pm in Mason Hall
+
+# University of Michigan Esports
+
+https://maizepages.umich.edu/organization/umichesports
+https://recsports.umich.edu/esports/
+
+- includes Hearthstone and Starcraft II
+- Discord has over 2,200 members
+- many casual events hosted (LAN parties, in-house tournaments, watch parties, sponsored events with giveaways, and much more.
+
+# Video Game Music Club
+
+https://maizepages.umich.edu/organization/vgmc
+
+- Weekly meetings, with time/day varying by semester based on member availability.
+- members are introduced to composition and music production (cool!)
+- at meetings, VGMC discusses anthing and everything related to the field of game audio.
+
+# Wolverine Sports Analytics
+
+https://maizepages.umich.edu/organization/wolverinesportsanalytics
+https://www.wolverinesportsanalytics.com/
+
+- pretty cool executive board (Yugeun Lim and Cindy Gu)
+
+# Wolverine Wellness
+health!
+
+# WolverineSoft
+
+https://maizepages.umich.edu/organization/wolverinesoft
+
+pretty cool
+
+wolverinesoft-studio.itch.io/dreamwillow
+
+# WolvSec
+
+https://maizepages.umich.edu/organization/wolvsec
+
+- weekly public meetings to discuss current topics and teach foundational skills related to cybersecurity.
+- Club consists of undergrads, grad students, alumni, university staff, and local industry professionals.
+- Competes in CTF competitions
+  involves web hacking, reverse engineering, binary exploitation, computer forensics, cryptography, and more
+  flags: unique strings
