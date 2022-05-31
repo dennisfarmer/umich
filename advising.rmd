@@ -1,0 +1,74 @@
+will taking overlapping courses cover general electives? (math 214 and 217)
+what is a general elective? what are the restrictions
+groove
+
+degree audit checklist report
+on wolverine access
+
+techcom 300
+
+look into flex electives (before 281
+
+BIOINF tech elective
+
+
+
+
+
+Advanced Technical Electives (8 credits required)
+
+MATH 451: Advanced Calculus 1 - 3 credits
+     basically real analysis
+STATS 426: Introduction to Theoretical Statistics - 3 credits
+
+
+Applied Statistics Master's
+
+STATS 608: Monte  Carlo Methods in Statistics
+     Advisory prerequisites: MATH 451, STATS 425, STATS 426.
+     Computer programming experience is recommended
+
+
+
+Wait until becoming an RA to take difficult math courses?
+Living on campus will likely skyrocket mental health
+
+
+
+
+
+
+
+
+
+
+
+linalg before statistics
+however linalg is a heavy workload course
+
+math 217 (linear algebra)
+
+# Fall 22
+eecs 280 (programming and intro data structures)
+stats 425 (probability)
+
+# Winter 23
+eecs 203 (discrete math)
+stats 413 (regression analysis)
+
+---
+
+# Fall 23
+eecs 281 (data structures and algorithms)
+stats 426 (theoretical statistics)
+
+# Winter 24
+eecs 445 (machine learning)
+eecs 496 (major design experience, senior standing)
+
+eecs 484 / 485 (data management and applications)
+
+atlas.ai.umich.edu
+
+lsa.umich.edu.cg
+tshrap@umich.edu

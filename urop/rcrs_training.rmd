@@ -1,0 +1,55 @@
+
+# Responsible Conduct of Research and Scholarship (RCRS) Training
+
+Research Ethics & Compliance
+PEERRS
+
+
+
+## Data Management
+
+Following the appropriate protocols to ensure that data confidentiality, data integrity, and data availability are maintained is a data management responsibility of every member of a study team.
+
+Everyone on the study team, from the PI to an undergraduate student volunteer, has an obligation to ensure the rigor and reproducibility of the data inputs and outputs of a project. This is primarily accomplished by adhering to the regulatory and disipline-specific requirements to ensure confidentiality, integrity, and availability of the data.
+
+During the set-up and conduct of a research project, tasks, such as the development  of the data collection plan or the submission of results or reports, likely are the responsibility of the PI or a project coordinator.
+
+All data generated as a result of research in which U-M dollaars are spent are the property of the institution. It is considered a best practice to NOT record, store, or access project data using your personal electronic devices especially if the project data could be considered sensitive. This way if the institutionnn needs to access the data for any reason, there is no concern. If use of personal devices for research activity is allowable in your department/unit and is not prohibited for the type of data in your project, you are solely responsible for applying the adequate information technology security to protect the data.
+
+Case Study: Data Managements Considerations
+
+Dr. Kim is the principal investigator for a multi-site, international human subjects research project for which U-M will be the Data Coordinating Center. All of the data will be sent to Dr. Kim, and her staff will then place it in a central database. Upon conclusion of the data collection phase of the project, the full data set will be made available to each country's research team. Dr. Kim develops a data collection and data management plan for the participating sites to follow to help ensure data integrity.
+Details About Dr. Kim's Data Management Considerations:
+
+A) When planning to conduct a human subjects research project, Dr. Kim needs to take into account the regulatory considerations related to participant consent for data collection, the participants' expectation of privacy, and data security (especially for data that identifies the participants). Project team members are expected to be aware of and to follow each respective country's regulations, as delineated in the research protocol and approved by the respective institutional review board(s).
+
+B) To operate as the data coordinating center, Dr. Kim needs to consider staffing (number of, supervision, training needs) so that the project can successfully collect, maintain, and report the data. Lack of staff / training may result in delays, errors, or non-compliance.
+
+C) Dr. Kim needs to consider the information technology (IT) requirements to adequately secure the transmission of data and to provide the project team access to the data / results, as technical capabilities can vary among the countries.
+
+D) Intellectual property laws vary among countries. Dr. Kim may consider the use of legal agreements, such as a data use agreement or non-disclosure agreement, to specify the expectations for data sharing, data protections, privacy protections, and/or intellectual property rights.
+
+In addition, some U.S. funding sponsors (e.g., NIH) prohibit international collaborations without their prior approval. As the PI, Dr. Kim should be aware of such policies before engaging in any international research collaboration.
+
+
+
+## Conflicts of Interest
+
+A conflict of interest is a situation in which an individual (or a family member) has financial or other personal considerations (i.e., interests) that compromise, or appear to compromise, his/her  profesisonal judgement in proposing, conducting, or reporting research and/or creates an unfair advantage (e.g., financial, competitive) for any person or organization.
+
+Case Study: Consulting
+
+Dr. Diaz-Rivera is a researcher on a project at U-M. The project is sponsored by a private international company and involves testing a product that the company is developing. Separately, the company approaches Dr. Diaz-Rivera about hiring her as a paid consultant on another project to be conducted at their facilities outside the United States. She accepts the consulting job and travels to the foreign country to participate on the other project.
+Details
+
+Regardless of whether the company is private or publicly-traded (i.e., offers stock for public purchase); is local, national, or international; or whether the work itself is to be conducted within the U.S. or in another country, by accepting a consulting job with a company while actively conducting research on that company's behalf, Dr Diaz creates a potential conflict of interest because:
+
+    As a professional commitment, the consulting job could affect her ability to fulfill her obligations (research, teaching, administration) to U-M, her primary employer; and
+
+
+    As a financial situation, the consulting job introduces the potential for bias, as it could influence Dr. Diaz-Rivera to provide a positive outcome for the company in the sponsored research project.
+
+
+By reporting (i.e., disclosing) the consulting job to U-M, the university can review the situation to determine the level of risk for the potential bias, identify management strategies to reduce / eliminate the bias, and develop a management plan for the investigator to follow to do both the research and consulting activity and be compliant with federal and university policies.
+
+A Conflict of Commitment (COC) is a type of COI where time and effort spent on an external activity impacts one's primary responsibilities (research, teaching, administration).
